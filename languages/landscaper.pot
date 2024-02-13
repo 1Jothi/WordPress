@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Landscaper\n"
+"POT-Creation-Date: 2023-07-07 15:45+0530\n"
+"PO-Revision-Date: 2023-07-07 15:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: Risingthemes Team <support@risingthemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Landscaper"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Landscaper!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Landscaper has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Landscaper Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Landscaper Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Landscaper Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Landscaper? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:15
+msgid "Welcome To Landscaper"
+msgstr ""
+
+#: patterns/banner.php:20
+msgid "We Are Allround Certified & Insured landscapers"
+msgstr ""
+
+#: patterns/banner.php:25
+#: patterns/process.php:13
+msgid "How It Works"
+msgstr ""
+
+#: patterns/footer.php:20
+msgid ""
+"Landscaper is company is made up of a group of highly skilled gardening, "
+"landscaping professionals and who pays a lot of attention to small details. "
+"In the 30+ years of experience our staff keep your property looking and "
+"functioning beautifully."
+msgstr ""
+
+#: patterns/footer.php:29
+#: patterns/header.php:39
+msgid "60 East 65th Street, New York City, NY 10065"
+msgstr ""
+
+#: patterns/footer.php:39
+#: patterns/footer.php:49
+#: patterns/header.php:75
+msgid "+02 (231) 0000 11"
+msgstr ""
+
+#: patterns/footer.php:59
+#: patterns/header.php:57
+msgid "info@sitename.com"
+msgstr ""
+
+#: patterns/footer.php:76
+msgid "Our Recent Posts"
+msgstr ""
+
+#: patterns/footer.php:92
+msgid "There is no posts to display"
+msgstr ""
+
+#: patterns/footer.php:100
+msgid "Opening Hours"
+msgstr ""
+
+#: patterns/footer.php:109
+msgid "Monday - Friday"
+msgstr ""
+
+#: patterns/footer.php:113
+#: patterns/footer.php:123
+msgid "10:00 AM - 17:00 PM"
+msgstr ""
+
+#: patterns/footer.php:119
+msgid "Saturday"
+msgstr ""
+
+#: patterns/footer.php:129
+msgid "Sunday"
+msgstr ""
+
+#: patterns/footer.php:133
+msgid "Closed"
+msgstr ""
+
+#: patterns/footer.php:139
+msgid "Newsletter Signup"
+msgstr ""
+
+#: patterns/footer.php:143
+msgid "Stay always in touch! Subscribe to our newsletter."
+msgstr ""
+
+#: patterns/footer.php:159
+msgid "© Copyright 2023. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:163
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:163
+msgid "Rising Themes"
+msgstr ""
+
+#: patterns/footer.php:163
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:163
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:163
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:35
+msgid "Visit Us On"
+msgstr ""
+
+#: patterns/header.php:53
+msgid "Email Us On"
+msgstr ""
+
+#: patterns/header.php:71
+msgid "Call Us On"
+msgstr ""
+
+#: patterns/introduction.php:23
+msgid "About Landscaper"
+msgstr ""
+
+#: patterns/introduction.php:28
+msgid "We Care Your Garden & Landscaping"
+msgstr ""
+
+#: patterns/introduction.php:33
+msgid ""
+"We strive to not only meet but also help your business grow for a reliable "
+"Landscape Maintenance Service. Integrity, according to Landscaper, is much "
+"more than a word."
+msgstr ""
+
+#: patterns/introduction.php:37
+msgid ""
+"If you like what you see, give us a call and we’ll come and see you and your "
+"garden and discuss ideas, designs and costs."
+msgstr ""
+
+#: patterns/introduction.php:47
+msgid "Planning your Garden"
+msgstr ""
+
+#: patterns/introduction.php:51
+#: patterns/introduction.php:61
+#: patterns/introduction.php:73
+#: patterns/introduction.php:83
+msgid "$36/h for a team of 2 expert gardeners"
+msgstr ""
+
+#: patterns/introduction.php:57
+msgid "Designing the Landscape"
+msgstr ""
+
+#: patterns/introduction.php:69
+msgid "The Driveway & Lawn"
+msgstr ""
+
+#: patterns/introduction.php:79
+msgid "Walkways by the Poolside"
+msgstr ""
+
+#: patterns/latest-news.php:13
+msgid "News Updates & Tips"
+msgstr ""
+
+#: patterns/latest-news.php:17
+msgid "Read Our Insights News Update & Articles"
+msgstr ""
+
+#: patterns/latest-news.php:48
+msgid "There is no post found"
+msgstr ""
+
+#: patterns/process.php:17
+msgid "We Always Work Done by The Following Process"
+msgstr ""
+
+#: patterns/process.php:34
+msgid "01"
+msgstr ""
+
+#: patterns/process.php:40
+msgid "Talk With Expert"
+msgstr ""
+
+#: patterns/process.php:44
+#: patterns/process.php:66
+#: patterns/process.php:88
+#: patterns/process.php:110
+msgid "Magna reprehenderit tempor do elit officia fugiat ullamco aute."
+msgstr ""
+
+#: patterns/process.php:56
+msgid "02"
+msgstr ""
+
+#: patterns/process.php:62
+msgid "Design Proposal"
+msgstr ""
+
+#: patterns/process.php:78
+msgid "03"
+msgstr ""
+
+#: patterns/process.php:84
+msgid "Start Planting"
+msgstr ""
+
+#: patterns/process.php:100
+msgid "04"
+msgstr ""
+
+#: patterns/process.php:106
+msgid "Finish work trust"
+msgstr ""
+
+#: patterns/project.php:13
+msgid "Our Project Work"
+msgstr ""
+
+#: patterns/project.php:17
+msgid "Check Some Of Our High Quality And Awesome Projects"
+msgstr ""
+
+#: patterns/project.php:32
+msgid "Garden"
+msgstr ""
+
+#: patterns/project.php:39
+msgid "Architecture House Lawn Garden"
+msgstr ""
+
+#: patterns/project.php:52
+msgid "Maintenance"
+msgstr ""
+
+#: patterns/project.php:59
+msgid "Blossom Growth Plant"
+msgstr ""
+
+#: patterns/project.php:72
+msgid "Lawncare"
+msgstr ""
+
+#: patterns/project.php:79
+msgid "Clean Leaf Nursery Farm"
+msgstr ""
